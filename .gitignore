@@ -1,0 +1,7 @@
+examples/config.json
+node_modules
+*.swp
+
+/.idea
+/yarn.lock
+/.node-version
