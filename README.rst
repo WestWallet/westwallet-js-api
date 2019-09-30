@@ -26,8 +26,8 @@ Create withdrawal example
     const westwalletErrors = westwallet.WestWalletAPIErrors;
 
     let client = new westwallet.WestWalletAPI(
-        "your_api_key",
-        "your_secret_key"
+        "your_public_key",
+        "your_private_key"
     );
     client.createWithdrawal("ETH", "0.1", "0x57689002367b407f031f1BB5Ef2923F103015A32")
     .then((data) => {
@@ -52,8 +52,8 @@ Generate address example
     const westwalletErrors = westwallet.WestWalletAPIErrors;
 
     let client = new westwallet.WestWalletAPI(
-        "your_api_key",
-        "your_secret_key"
+        "your_public_key",
+        "your_private_key"
     );
     client.generateAddress("BTC").then((data) => {
         console.log(data);
