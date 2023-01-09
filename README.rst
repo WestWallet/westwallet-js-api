@@ -4,7 +4,7 @@ westwallet-js-api
     :alt: npm
     :target: https://www.npmjs.org/package/westwallet-api
 
-westwallet-js-api is a `WestWallet Public API <https://westwallet.info/api_docs>`_ wrapper for JavaScript programming language. Use it for building payment solutions.
+westwallet-js-api is a `WestWallet Public API <https://westwallet.io/api_docs>`_ wrapper for JavaScript programming language. Use it for building payment solutions.
 
 Installing
 ----------
@@ -65,7 +65,7 @@ Generate address example
 
 Documentation
 -------------
-* API: https://westwallet.info/api_docs
+* API: https://westwallet.io/api_docs
 
 
 Other languages
