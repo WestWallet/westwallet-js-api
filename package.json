@@ -1,6 +1,6 @@
 {
   "name": "westwallet-api",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "WestWallet Public API JavaScript wrapper",
   "main": "index.js",
   "directories": {
